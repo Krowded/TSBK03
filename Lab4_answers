@@ -1,0 +1,16 @@
+Lab4
+Uppgift 1:
+Stoppade in alla in en lista (lättare att jobba med), kollade distansen för en sprite mellan i listan mot alla andra, stoppade in de som var nära spriten i en grupp, räknade ut masscentrum och satte ny riktning ditåt. Upprepa för alla sprites.
+
+Uppgift 2:
+Som en fjäder. Funkar rätt bra, men skulle kunna justera parametrar
+
+Uppgift 3:
+Lade vikten 0.2, vet inte hur mycket per iteration...
+
+Uppgift 4:
+1. Håller reda på det genom att ge varje spriteobjekt en int som indikator. (kunde ha kollat på vilken bild de använder inser jag nu)
+2. Busig flockmedlem. Bestäms av hur stark dens attraktionskraft är (nu satt till 0).
+
+Uppgift 5:
+

@@ -1,0 +1,16 @@
+Lab1:
+Uppgift 1:
+1. Platta? Pga att 1 är max så de får samma värde. Valde att inte ändra på ljuset och istället förstärka i tröskelshadern.
+2. Man initierar en ny FBO och tömmer framebuffern. Tror jag. (Eller skapa FBO med tomt datafält?)
+3. 5 mot slutet.
+4. Gjorde ett gauss-liknande filter med bara diagonalerna.
+5. Skulle väl vara bra om det kunde göra något mer. Dyrt att ladda texturer och shaders utan att utföra beräkningar
+
+
+Uppgift 2:
+1. Texturkoordinaterna kändes bättre då det var lättare att föreställa sig ytan där. Skillnaden är väl att i ena så transformerar man normalen och i andra ljusvektorn.
+2b bättre, färre transformer, mer intuitivt.
+2. Som in i ytan. Mindre problem vid skarpa vinklar än saker som sticker ut.
+3. Nej, eftersom mat3 matar in vektorer kolumnvis så fick jag ta transponatet av matrisen.
+4. Som vertexpositionen.
+5. Marginellt bättre. I alla fall med de mapparna jag testade

@@ -1,0 +1,14 @@
+Lab3
+Uppgift 1:
+-(epsilon+1)Vrel/((1/massa1) + (1/massa2))
+
+Uppgift 2:
+1. Nummer 1 eftersom jag inte ställt in separationen ordentligt. Och nummer 2 eftersom bollarna inte kan vara på samma plats, när de är separerade var det inga problem.
+
+Uppgift 3:
+1. j = ball[i].mass * kBallSize^2 =  mass * radius²
+=> J = [ mr²  0   0
+		  0  mr²  0
+		  0   0  mr² ]
+2. w = J⁻¹L
+3. hastigheten av bollen + hastigheten från rotationen (vektoraddition såklart)

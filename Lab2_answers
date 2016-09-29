@@ -1,0 +1,4 @@
+Lab2 svar:
+1. Med translationsmatris. Det spelade ingen större roll i 2, men eftersom det låter mig slå ihop alla operationer till en matris så blir det lättare att skicka runt informationen, t.ex. till shaders.
+2. Likadant som i förra uppgiften. Räknade ut transformationsmatriserna på CPUn och skickade dem till shadern. (plus vikterna, men de var ju förbestämda)
+3. Om varje del av modellen ritas så att vilorotationer inte behövs så är det väl möjligt att man klarar sig unden, men låter orimligt .
